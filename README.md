@@ -44,8 +44,14 @@ Given the instability of the gradient ascent process, it is advisable to use Adv
 
 ### AdvNPO
 
+Check out the script files in  `./scripts/rwku` and `./scripts/muse`. Just make sure to update the directories before running them on your local machine!
+
+Note: for the evaluation on datset MUSE, we directly use the original code open-sourced in [muse_bench](https://github.com/jaechan-repo/muse_bench).
+If setting up another environment feels like a hassle, you can just comment out the evaluation code in the script and skip the whole evaluation process.
+
 ### AdvRMU
 
+Check out the script files in  `./scripts/rwku` and `./scripts/muse`. Just make sure to update the directories before running them on your local machine!
 
 
 ## Other related projects
